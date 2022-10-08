@@ -1,5 +1,10 @@
 # BAHANBOTRDP
-Bahan-Bahan Pemasangan Bot Di RDP
+Ini adalah bahan-bahan yang diperlukan untuk WhatsApp Bot di Remote Desktop Protocol anda
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eabdalmufid8&label=Profile%20views&color=0e75b6&style=plastic" alt="eabdalmufid" /> </p>
+
+
 
 ## Let's Connect
 <p align="center">
@@ -8,5 +13,4 @@ Bahan-Bahan Pemasangan Bot Di RDP
 	
 </p>
 
-<hr/>
 
